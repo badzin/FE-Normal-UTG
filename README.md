@@ -1,2 +1,2 @@
-# FE-Normal-UTG
-roblox lua script utg fe for exploits :)
+https://raw.githubusercontent.com/badzin/FE-Normal-UTG/main/Script%20Here
+-- link for get script
